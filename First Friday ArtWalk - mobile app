@@ -1,0 +1,16 @@
+This mobile app can be a simple as a google map with a line then webviewing the map page into a mobile app.
+
+Pros:
+* So CHEEEAAAAPP
+* Bare matianence. Just update the line on the map. NOTHING else.
+* No updates needed when changes are made to the route.
+* Map changes go everywhere at once. Offer a widget (iframe) for sites?
+* SOOOOOO CHEEEEAAAAPP
+
+Cons:
+* Limited interaction. It just presents the information.
+
+Development:
+Map can be made at MIT app inventor. Takes like 2 min.
+Sign up for google account and make line. Takes 5 min if you don't know where that option is.
+Get poeple to use it.
